@@ -1,0 +1,9 @@
+{
+  "name": "eduardo-tcc2",
+  "version": "0.0.0",
+  "description": "EduardoTCC2",
+  "main": "server.js",
+  "author": {
+    "name": "Eduardo"
+  }
+}
